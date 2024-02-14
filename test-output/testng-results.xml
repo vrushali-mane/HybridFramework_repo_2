@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-14T16:12:28 IST" name="Default suite" finished-at="2024-02-14T16:12:39 IST" duration-ms="10642">
+    <groups>
+    </groups>
+    <test started-at="2024-02-14T16:12:28 IST" name="Default test" finished-at="2024-02-14T16:12:39 IST" duration-ms="10642">
+      <class name="com.ots.testCases.TestFreeLanceAppplication">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ots.testCases.TestFreeLanceAppplication@5a45133e]" started-at="2024-02-14T16:12:28 IST" name="setup" finished-at="2024-02-14T16:12:37 IST" duration-ms="8699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyNewUser()[pri:0, instance:com.ots.testCases.TestFreeLanceAppplication@5a45133e]" started-at="2024-02-14T16:12:37 IST" name="verifyNewUser" finished-at="2024-02-14T16:12:38 IST" duration-ms="1073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ots.testCases.TestFreeLanceAppplication@5a45133e]" started-at="2024-02-14T16:12:38 IST" name="tearDown" finished-at="2024-02-14T16:12:39 IST" duration-ms="746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ots.testCases.TestFreeLanceAppplication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
